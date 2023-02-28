@@ -4,16 +4,19 @@ Next.jsとtailwindを利用してこのポートフォリオを作成しまし�
 
 ## Getting Started
 
-サーバーの起動
 
-        yarn install
+サイトの設置
 ```bash
-        npm run dev 
+yarn install
+```
+サーバーの起動
+```bash
+npm run dev 
 ```
 yarnをインストールした場合  
 
 ```bash
-        yarn dev
+yarn dev
 ```
 ## ポートフォリオ
         XServerを利用するECーCUBEサイト
