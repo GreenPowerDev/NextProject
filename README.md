@@ -5,7 +5,8 @@ Next.jsとtailwindを利用してこのポートフォリオを作成しまし�
 ## Getting Started
 
 サーバーの起動
-
+```bash
+        yarn install
 ```bash
         npm run dev   
 ******yarnをインストールした場合     
